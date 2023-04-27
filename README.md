@@ -1,5 +1,5 @@
 # digital-agency
-This is a only html and vanilla css project. It's a static templete.
+- This is a only html and vanilla css project. It's a static templete.
 
 
 
